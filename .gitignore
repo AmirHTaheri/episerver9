@@ -2,3 +2,4 @@
 .vs/Episerver9/
 .vs/Episerver9/v15/
 EPiServerErrors*
+Episerver9/App_Data/*.log
